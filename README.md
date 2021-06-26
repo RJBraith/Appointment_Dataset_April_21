@@ -10,4 +10,4 @@ Dataset: https://digital.nhs.uk/data-and-information/publications/statistical/ap
 With a focus on looking at the UK as a whole, analysed tables 2a through 2d producing various figures showcasing the composition and distribution of various factors relating to appointments
 
 The goal was to explore the dataset and derive useful information from it. This was a success.
-Since the spreadsheet formatting was fairly consistant throughout, I was able to just copy the notebook and make slight variations to labeling and importing to accomodate the different columns
+Since the spreadsheet formatting was fairly consistant, I was able to just copy the notebook and make slight adjustments to labeling and importing to accomodate the different columns
