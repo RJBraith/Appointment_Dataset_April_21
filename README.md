@@ -10,7 +10,7 @@ Dataset: https://digital.nhs.uk/data-and-information/publications/statistical/ap
 With a focus on looking at the UK as a whole, analysed tables 2a through 2d producing various figures showcasing the composition and distribution of various factors relating to appointments
 
 The goal was to explore the dataset and derive useful information from it. This was a success.
-Since the spreadsheet formatting was fairly consistant, I was able to just copy the notebook and make adjustments to labeling and importing to accomodate the different columns
+Since the spreadsheet formatting was fairly consistent, I was able to just copy the notebook and make adjustments to labeling and importing to accommodate the different columns
 
 ---
 
@@ -26,7 +26,7 @@ Table 2a
 
 Table 2b
 	Contains data on appointments broken divided into the healthcare professional seen
-	The appointments are broken down into General Practitionar, Other Practice Staff and Unknown
+	The appointments are broken down into General Practitioner, Other Practice Staff and Unknown
 	
 	Other Practice Staff includes Acupuncturist, Chiropodist, Counsellor, Physiotherapist etc
 	whereas GP extends to differing levels of GP seniority.
